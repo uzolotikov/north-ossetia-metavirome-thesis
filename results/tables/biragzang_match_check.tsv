@@ -1,0 +1,60 @@
+# Step 4b  do the vOTU catalog and the MV-4128 candidates match Biragzang.final?
+# Matches are counted for a grid of identity / query-coverage thresholds.
+#
+# 97 vOTU vs Biragzang.final (fresh megablast, unfiltered)
+#   queries with at least one HSP : 4 of 97
+#   highest HSP identity anywhere : 98.89 %
+#   longest HSP anywhere          : 3370 bp
+# min_pident	min_query_cov_pct	queries_passing
+# 95	50	0
+# 95	25	0
+# 95	10	0
+# 95	1	0
+# 90	10	0
+# 80	10	1
+# 75	50	1
+#
+# per-query detail (best HSP by aligned length, any identity)
+query	qlen	best_pident	best_aln	query_cov_pct_any_identity
+vOTU_076	5969	77.69	3370	95.63
+vOTU_011	26064	71.52	1320	4.94
+vOTU_021	16581	72.89	450	5.01
+vOTU_002	43474	98.89	90	0.21
+#
+# 99 MV-4128 virus candidates vs Biragzang.final (pipeline step 10)
+#   queries with at least one HSP : 21 of 99
+#   highest HSP identity anywhere : 93.51 %
+#   longest HSP anywhere          : 4763 bp
+# min_pident	min_query_cov_pct	queries_passing
+# 95	50	0
+# 95	25	0
+# 95	10	0
+# 95	1	0
+# 90	10	0
+# 80	10	1
+# 75	50	1
+#
+# per-query detail (best HSP by aligned length, any identity)
+query	qlen	best_pident	best_aln	query_cov_pct_any_identity
+MV-4128_S29__NODE_1078_length_5969_cov_4.838688||full	5969	74.51	4763	100.00
+MV-4128_S29__NODE_2322_length_2942_cov_3.921718||full	2942	67.24	1801	93.71
+MV-4128_S29__NODE_2313_length_2952_cov_3.990680||full	2952	71.33	987	55.32
+MV-4128_S29__NODE_219_length_22136_cov_837.337666||full_1	15200	68.05	892	18.64
+MV-4128_S29__NODE_168_length_25826_cov_27.249311||full_1	14847	64.94	716	7.44
+MV-4128_S29__NODE_3290_length_2223_cov_41.785055||full	2223	68.59	573	27.31
+MV-4128_S29__NODE_1319_length_4914_cov_19.732249||full	4914	65.27	573	11.29
+MV-4128_S29__NODE_4784_length_1668_cov_4.866708||full	1668	64.24	467	46.94
+MV-4128_S29__NODE_1701_length_3849_cov_22.680812||full	3849	74.50	451	11.51
+MV-4128_S29__NODE_1786_length_3708_cov_6.681084||full	3708	70.56	360	12.00
+MV-4128_S29__NODE_781_length_8212_cov_9.316170||full	8212	68.83	324	7.42
+MV-4128_S29__NODE_209_length_22758_cov_20.083822||full	22758	68.77	301	1.30
+MV-4128_S29__NODE_2034_length_3297_cov_10.411474||full	3297	74.75	198	10.59
+MV-4128_S29__NODE_12_length_141680_cov_673.733402||0_partial	22423	72.59	197	1.59
+MV-4128_S29__NODE_77_length_39259_cov_504.042343||full	39259	69.94	183	0.47
+MV-4128_S29__NODE_550_length_11069_cov_18.815689||full	11069	75.91	137	1.22
+MV-4128_S29__NODE_1531_length_4262_cov_30.169717||full	4262	76.77	99	2.32
+MV-4128_S29__NODE_1033_length_6209_cov_404.209945||full	6209	87.36	87	1.47
+MV-4128_S29__NODE_575_length_10738_cov_611.299729||full	10738	81.48	81	0.76
+MV-4128_S29__NODE_1_length_685560_cov_728.732645||0_partial_1	39533	93.51	77	0.19
+MV-4128_S29__NODE_470_length_12571_cov_13.628875||full	12571	93.33	60	0.48
+#

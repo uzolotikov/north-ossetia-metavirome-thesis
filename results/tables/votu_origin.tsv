@@ -1,0 +1,99 @@
+# origin of every vOTU; see 13_virus_origin.py docstring for category rules
+votu	length	category	detail	genomad	taxon	checkv_quality	checkv_completeness	detected_T1_T2_Bi	ratio_T2_Bi	host_contig	rpm_Tib1	rpm_Tib2	rpm_Biragzang
+vOTU_001	43643	1_provirus_MV	community_MV4122_dormant_provirus	virus	Caudoviricetes	High-quality	100.0	+--		MV-4122_S12__NODE_79_length_88798_cov_36.475621	371.56	0.16	0.00
+vOTU_002	43474	1_provirus_MV	community_MV4122_dormant_provirus	virus	Caudoviricetes	Medium-quality	63.4	++-		MV-4122_S12__NODE_37_length_131343_cov_196.227919	1978.55	1136.86	0.20
+vOTU_003	42130	5_unknown		virus	Caudoviricetes	High-quality	95.77	++-			406.10	132.75	0.10
+vOTU_004	40752	5_unknown		virus	Caudoviricetes	Medium-quality	85.56	++-			256.49	96.03	8.25
+vOTU_005	39533	1_provirus_MV	Sphingomonas_MV4128_dormant_provirus	virus	Caudoviricetes	High-quality	99.29	+++	0.598	MV-4128_S29__NODE_1_length_685560_cov_728.732645	23.43	4005.27	6702.61
+vOTU_006	39529	1_provirus_MV	community_MV4122_dormant_provirus	virus	Caudoviricetes	Medium-quality	85.75	+++	0.960	MV-4122_S12__NODE_1_length_347332_cov_162.618440	1694.38	348.24	362.70
+vOTU_007	39259	3_follows_sph		virus	Caudoviricetes	Medium-quality	72.71	-++	0.525		8.30	2732.36	5199.96
+vOTU_008	36032	2_crispr_MV		virus	Caudoviricetes	Medium-quality	80.52	-++	0.560		16.99	2929.78	5234.44
+vOTU_009	27200	4_native	site_Tib2	virus	Caudoviricetes	Medium-quality	67.08	+--			163.85	11.45	1.85
+vOTU_010	26567	5_unknown		virus	Caudoviricetes	Low-quality	44.24	+--			217.69	0.08	0.00
+vOTU_011	26064	0_not_virus	not_viral	not_viral	NA	Low-quality	27.0	++-			16.73	268.53	0.17
+vOTU_012	25184	1_provirus_MV	community_MV4122_induced_prophage	virus	Caudoviricetes	Medium-quality	72.01	++-		MV-4122_S12__NODE_400_length_30910_cov_29.638243	228.36	68.69	0.00
+vOTU_013	23580	5_unknown		virus	Caudoviricetes	Medium-quality	59.1	++-			21.30	221.41	0.00
+vOTU_014	22758	3_follows_sph		virus	Caudoviricetes	Low-quality	47.33	-++	0.368		0.00	43.61	118.57
+vOTU_015	19802	5_unknown		virus	Caudoviricetes	Low-quality	25.82	++-			147.98	42.48	0.05
+vOTU_016	19268	5_unknown		virus	Caudoviricetes	Low-quality	38.42	+--			164.50	0.00	0.00
+vOTU_017	18801	2_crispr_MV		virus	Caudoviricetes	Low-quality	42.06	-++	1.871		5.88	157.82	84.36
+vOTU_018	17956	1_provirus_MV	community_MV4122_dormant_provirus	virus	Caudoviricetes	High-quality	100.0	+++	0.817	MV-4122_S12__NODE_150_length_60956_cov_139.780135	715.20	135.08	165.28
+vOTU_019	17688	5_unknown		virus	Caudoviricetes	Low-quality	33.49	++-			168.79	121.69	0.00
+vOTU_020	16631	5_unknown		virus	Caudoviricetes	Low-quality	30.96	+--			46.78	5.10	0.05
+vOTU_021	16581	0_not_virus	plasmid	plasmid	NA	Low-quality	26.59	+-+			40.66	7.17	11.11
+vOTU_022	16437	5_unknown		virus	Caudoviricetes	Low-quality	26.92	++-			134.25	38.75	0.00
+vOTU_023	15987	3_follows_sph		virus	Caudoviricetes	Low-quality	39.87	+++	0.692		43.79	10.32	14.90
+vOTU_024	15578	5_unknown		virus	Caudoviricetes	Low-quality	34.14	-+-			0.00	72.00	0.00
+vOTU_025	15483	5_unknown		virus	Caudoviricetes	Low-quality	33.15	++-			344.69	52.37	1.43
+vOTU_026	15200	1_provirus_MV	Sphingomonas_MV4128_induced_prophage	virus	Caudoviricetes	Low-quality	33.14	+++	0.523	MV-4128_S29__NODE_219_length_22136_cov_837.337666	13.24	2100.71	4014.13
+vOTU_027	14847	0_not_virus	not_viral	not_viral	NA	Low-quality	28.3	-++	0.339	MV-4128_S29__NODE_168_length_25826_cov_27.249311	0.00	34.31	101.28
+vOTU_028	14391	0_not_virus	not_viral	not_viral	NA	Low-quality	26.6	++-			54.27	19.90	0.00
+vOTU_029	14134	4_native	site_Tib2	virus	Caudoviricetes	Low-quality	32.99	+--			45.65	3.35	0.25
+vOTU_030	14079	1_provirus_MV	community_MV4122_dormant_provirus	virus	Caudoviricetes	Low-quality	20.95	++-		MV-4122_S12__NODE_26_length_151132_cov_95.491233	267.65	42.33	1.35
+vOTU_031	13868	5_unknown		virus	Caudoviricetes	Low-quality	18.9	+-+			32.83	5.72	9.90
+vOTU_032	12646	1_provirus_MV	community_MV4122_induced_prophage	virus	Caudoviricetes	Low-quality	23.72	++-		MV-4122_S12__NODE_5_length_250913_cov_121.761750	566.11	85.24	2.68
+vOTU_033	12556	5_unknown		virus	Caudoviricetes	Low-quality	28.52	-+-			0.00	58.25	0.00
+vOTU_034	12045	5_unknown		virus	Caudoviricetes	Low-quality	15.76	--+			0.05	0.08	20.57
+vOTU_035	11914	4_native	site_Tib2	virus	Caudoviricetes	Low-quality	13.62	---			60.44	22.00	2.56
+vOTU_036	11464	1_provirus_MV	community_MV4122_induced_prophage	virus	Caudoviricetes	Low-quality	29.49	++-		MV-4122_S12__NODE_517_length_25277_cov_17.470859	78.17	38.47	0.64
+vOTU_037	11202	5_unknown		virus	Caudoviricetes	Low-quality	15.39	++-			8.64	85.47	0.00
+vOTU_038	11069	3_follows_sph		virus	Caudoviricetes	Low-quality	22.38	-++	0.408		0.00	22.16	54.31
+vOTU_039	10738	3_follows_sph		virus	Caudoviricetes	Low-quality	6.77	-++	0.527		3.70	911.20	1730.47
+vOTU_040	10734	5_unknown		virus	Caudoviricetes	Low-quality	20.31	+--			27.79	2.34	0.00
+vOTU_041	10621	3_follows_sph		virus	Caudoviricetes	Low-quality	19.64	+++	0.476		8.20	14.72	30.91
+vOTU_042	9843	5_unknown		virus	Autographiviridae	Low-quality	23.49	++-			20.86	8.45	2.32
+vOTU_043	9642	5_unknown		virus	Caudoviricetes	Low-quality	11.76	+--			20.96	1.99	0.00
+vOTU_044	9638	4_native	site_Tib2	virus	Caudoviricetes	Low-quality	7.22	---			54.13	19.04	2.24
+vOTU_045	9606	5_unknown		virus	Caudoviricetes	Low-quality	23.52	+--			23.59	1.83	0.10
+vOTU_046	9378	5_unknown		virus	Caudoviricetes	Low-quality	20.23	--+			0.16	0.16	11.26
+vOTU_047	9348	5_unknown		virus	Caudoviricetes	Low-quality	21.58	++-			8.14	26.64	0.10
+vOTU_048	9323	1_provirus_MV	community_MV4122_dormant_provirus	virus	Caudoviricetes	Low-quality	20.86	++-		MV-4122_S12__NODE_500_length_25921_cov_24.009743	70.50	36.60	0.57
+vOTU_049	9268	5_unknown		virus	Caudoviricetes	Low-quality	19.13	+--			76.67	0.00	0.00
+vOTU_050	9111	5_unknown		virus	Caudoviricetes	Low-quality	21.96	++-			76.62	57.79	0.05
+vOTU_051	8783	5_unknown		virus	Caudoviricetes	Low-quality	28.36	++-			65.88	18.19	0.00
+vOTU_052	8539	5_unknown		virus	Caudoviricetes	Low-quality	17.66	+--			12.29	0.35	0.00
+vOTU_053	8224	4_native	site_Tib2_carried_with_contaminant	virus	Caudoviricetes	Low-quality	10.19	+++	0.409		18.96	14.56	35.59
+vOTU_054	8212	5_unknown		virus	Caudoviricetes	Low-quality	21.62	--+			0.11	0.66	19.80
+vOTU_055	8169	1_provirus_MV	community_MV4122_dormant_provirus	virus	Caudoviricetes	Low-quality	13.13	+--		MV-4122_S12__NODE_305_length_38149_cov_45.168215	80.69	0.08	0.00
+vOTU_056	8069	0_not_virus	plasmid	plasmid	NA	Low-quality	12.94	+-+		MV-4122_S12__NODE_271_length_41564_cov_9.960804	22.85	4.56	7.44
+vOTU_057	8036	5_unknown		virus	Caudoviricetes	Low-quality	15.77	--+			0.00	0.08	13.89
+vOTU_058	7879	4_native	site_Tib2_carried_with_contaminant	virus	Caudoviricetes	Low-quality	6.05	+++	0.354		16.50	10.16	28.72
+vOTU_059	7727	5_unknown		virus	Inoviridae	High-quality	100.0	++-			42.03	11.72	0.00
+vOTU_060	7593	0_not_virus	not_viral	not_viral	NA	Low-quality	5.87	++-		MV-4122_S12__NODE_74_length_92715_cov_81.746903	106.51	16.63	0.25
+vOTU_061	7573	5_unknown		virus	Caudoviricetes	Low-quality	12.52	+++	10.093		85.92	34.31	3.40
+vOTU_062	7457	4_native	site_Tib2	virus	Caudoviricetes	Low-quality	5.89	+--			32.94	4.09	2.83
+vOTU_063	7352	5_unknown		virus	Caudoviricetes	Low-quality	17.77	-+-			0.05	31.66	0.00
+vOTU_064	7348	0_not_virus	plasmid	plasmid	NA	Low-quality	4.35	-++	1.035		2.97	85.12	82.24
+vOTU_065	7312	1_provirus_MV	community_MV4122_dormant_provirus	virus	Caudoviricetes	Low-quality	14.04	++-		MV-4122_S12__NODE_100_length_77687_cov_44.800675	55.34	37.73	0.00
+vOTU_066	7142	1_provirus_MV	community_MV4122_dormant_provirus	virus	Caudoviricetes	Low-quality	12.54	++-		MV-4122_S12__NODE_13_length_180342_cov_55.843233	133.27	75.43	0.20
+vOTU_067	7007	1_provirus_MV	community_MV4122_dormant_provirus	virus	Caudoviricetes	Low-quality	15.37	++-		MV-4122_S12__NODE_13_length_180342_cov_55.843233	109.00	64.87	0.15
+vOTU_068	7001	4_native	site_Tib2	virus	Caudoviricetes	Low-quality	12.13	+-+			15.81	9.62	24.66
+vOTU_069	6406	5_unknown		virus	Autographiviridae	Low-quality	15.41	++-			10.82	4.52	1.67
+vOTU_070	6405	5_unknown		virus	Caudoviricetes	Low-quality	11.0	--+			0.00	0.00	16.23
+vOTU_071	6393	4_native	site_Tib2	virus	Caudoviricetes	Low-quality	13.64	+++	5.340		87.83	27.49	5.15
+vOTU_072	6246	5_unknown		virus	Caudoviricetes	Low-quality	12.77	+--			15.21	2.53	0.25
+vOTU_073	6209	3_follows_sph		virus	Caudoviricetes	Low-quality	10.87	-++	0.548		1.37	342.91	626.15
+vOTU_074	6183	5_unknown		virus	Caudoviricetes	Low-quality	11.53	+--			8.46	0.08	0.00
+vOTU_075	6100	5_unknown		virus	Caudoviricetes	Low-quality	12.63	+--			16.65	1.95	0.20
+vOTU_076	5969	4_native	site_Biragzang	virus	Caudoviricetes	Low-quality	13.23	--+			0.00	0.19	7.44
+vOTU_077	5967	4_native	site_Tib2_carried_with_contaminant	virus	Caudoviricetes	Low-quality	12.54	+++	0.381		16.86	10.36	27.17
+vOTU_078	5886	5_unknown		virus	Caudoviricetes	Low-quality	3.96	+--			36.51	0.00	0.00
+vOTU_079	5800	4_native	site_Tib2	virus	Caudoviricetes	Low-quality	12.18	+--			12.95	0.93	0.32
+vOTU_080	5760	3_follows_sph		virus	Caudoviricetes	Low-quality	6.5	+++	0.611		15.13	2.65	4.34
+vOTU_081	5722	5_unknown		virus	Caudoviricetes	Low-quality	12.73	-+-			0.00	16.28	0.00
+vOTU_082	5702	4_native	site_Tib2	virus	Caudoviricetes	Low-quality	4.11	+--			13.13	0.62	0.10
+vOTU_083	5669	5_unknown		virus	Caudoviricetes	Low-quality	10.53	+--			12.66	1.25	0.00
+vOTU_084	5652	0_not_virus	not_viral	not_viral	NA	Low-quality	11.13	+--			12.27	1.29	0.05
+vOTU_085	5590	3_follows_sph		virus	Caudoviricetes	Low-quality	6.05	+++	0.506		3.26	9.62	18.99
+vOTU_086	5415	4_native	site_Tib2	virus	Caudoviricetes	Low-quality	13.35	++-			30.02	3.08	0.17
+vOTU_087	5403	5_unknown		virus	Caudoviricetes	Low-quality	11.3	+--			7.93	0.16	0.00
+vOTU_088	5394	5_unknown		virus	Mesyanzhinovviridae	Low-quality	9.03	--+			0.00	0.00	7.56
+vOTU_089	5381	5_unknown		virus	Caudoviricetes	Low-quality	13.27	--+			0.00	0.00	12.73
+vOTU_090	5341	5_unknown		virus	Caudoviricetes	Low-quality	11.32	+--			7.33	0.08	0.00
+vOTU_091	5275	5_unknown		virus	Caudoviricetes	Low-quality	4.94	--+			0.00	0.00	6.77
+vOTU_092	5235	5_unknown		virus	Caudoviricetes	Low-quality	9.43	+--			7.83	0.08	0.00
+vOTU_093	5204	4_native	site_Tib2	virus	Caudoviricetes	Low-quality	4.49	+--			16.57	0.70	0.20
+vOTU_094	5194	5_unknown		virus	Caudoviricetes	Low-quality	10.3	+--			6.46	0.39	0.00
+vOTU_095	5169	0_not_virus	not_viral	not_viral	NA	Low-quality	3.47	+++	0.388		3.44	5.30	13.65
+vOTU_096	5135	3_follows_sph		virus	Caudoviricetes	Low-quality	10.58	+++	0.473		5.54	11.18	23.62
+vOTU_097	5093	5_unknown		virus	Caudoviricetes	Low-quality	7.18	+--			11.08	1.60	0.15

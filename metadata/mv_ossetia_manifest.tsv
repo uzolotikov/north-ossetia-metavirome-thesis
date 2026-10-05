@@ -1,0 +1,23 @@
+sample_id	assembly_name	site	region	lat	lon	fraction	role	read	abs_path	size_bytes
+KM4122-MV	KMA41A18	Tib #1 mineral spring	North Ossetia	42.676395	43.923569	metavirome_0.22+Amicon30kDa	target	R1	/mss5/Reads/Metagenome/Ossetia-2020/MV-4122_S12_R1_001.fastq.gz	1882624050
+KM4122-MV	KMA41A18	Tib #1 mineral spring	North Ossetia	42.676395	43.923569	metavirome_0.22+Amicon30kDa	target	R2	/mss5/Reads/Metagenome/Ossetia-2020/MV-4122_S12_R2_001.fastq.gz	2157294369
+KM4125-MV	KMA41A19	Tib #2 mineral spring	North Ossetia	42.670042	43.913496	metavirome_0.22+Amicon30kDa	target	R1	/mss5/Reads/Metagenome/Ossetia-2020/MV-4125_S18_R1_001.fastq.gz	1376863718
+KM4125-MV	KMA41A19	Tib #2 mineral spring	North Ossetia	42.670042	43.913496	metavirome_0.22+Amicon30kDa	target	R2	/mss5/Reads/Metagenome/Ossetia-2020/MV-4125_S18_R2_001.fastq.gz	1583221677
+KM4128-MV	KMA41A20	Biragzang thermal spring	North Ossetia	42.995672	44.229012	metavirome_0.22+Amicon30kDa	target	R1	/mss5/Reads/Metagenome/Ossetia-2020/MV-4128_S29_R1_001.fastq.gz	1923260731
+KM4128-MV	KMA41A20	Biragzang thermal spring	North Ossetia	42.995672	44.229012	metavirome_0.22+Amicon30kDa	target	R2	/mss5/Reads/Metagenome/Ossetia-2020/MV-4128_S29_R2_001.fastq.gz	2141576528
+4122-0-22	NA	Tib #1 mineral spring	North Ossetia	42.676395	43.923569	cellular_0.22um	companion	R1	/mss5/Reads/Metagenome/Ossetia-2020/4122-0-22_S11_R1_001.fastq.gz	319130044
+4122-0-22	NA	Tib #1 mineral spring	North Ossetia	42.676395	43.923569	cellular_0.22um	companion	R2	/mss5/Reads/Metagenome/Ossetia-2020/4122-0-22_S11_R2_001.fastq.gz	356786107
+4122-0-44	NA	Tib #1 mineral spring	North Ossetia	42.676395	43.923569	cellular_0.44um	companion	R1	/mss5/Reads/Metagenome/Ossetia-2020/4122-0-44_S10_R1_001.fastq.gz	1474060890
+4122-0-44	NA	Tib #1 mineral spring	North Ossetia	42.676395	43.923569	cellular_0.44um	companion	R2	/mss5/Reads/Metagenome/Ossetia-2020/4122-0-44_S10_R2_001.fastq.gz	1677183410
+4125-0-22	NA	Tib #2 mineral spring	North Ossetia	42.670042	43.913496	cellular_0.22um	companion	R1	/mss5/Reads/Metagenome/Ossetia-2020/4125-0-22_S17_R1_001.fastq.gz	421321440
+4125-0-22	NA	Tib #2 mineral spring	North Ossetia	42.670042	43.913496	cellular_0.22um	companion	R2	/mss5/Reads/Metagenome/Ossetia-2020/4125-0-22_S17_R2_001.fastq.gz	436262517
+4125-0-44	NA	Tib #2 mineral spring	North Ossetia	42.670042	43.913496	cellular_0.44um	companion	R1	/mss5/Reads/Metagenome/Ossetia-2020/4125-0-44_S16_R1_001.fastq.gz	1216124117
+4125-0-44	NA	Tib #2 mineral spring	North Ossetia	42.670042	43.913496	cellular_0.44um	companion	R2	/mss5/Reads/Metagenome/Ossetia-2020/4125-0-44_S16_R2_001.fastq.gz	1404977484
+4128	NA	Biragzang thermal spring	North Ossetia	42.995672	44.229012	whole_water	companion	R1	/mss5/Reads/Metagenome/Ossetia-2020/4128_S30_R1_001.fastq.gz	521869087
+4128	NA	Biragzang thermal spring	North Ossetia	42.995672	44.229012	whole_water	companion	R2	/mss5/Reads/Metagenome/Ossetia-2020/4128_S30_R2_001.fastq.gz	628166976
+4128-0-22	NA	Biragzang thermal spring	North Ossetia	42.995672	44.229012	cellular_0.22um	companion	R1	/mss5/Reads/Metagenome/Ossetia-2020/4128-0-22_S28_R1_001.fastq.gz	223467384
+4128-0-22	NA	Biragzang thermal spring	North Ossetia	42.995672	44.229012	cellular_0.22um	companion	R2	/mss5/Reads/Metagenome/Ossetia-2020/4128-0-22_S28_R2_001.fastq.gz	322478501
+4128-0-44	NA	Biragzang thermal spring	North Ossetia	42.995672	44.229012	cellular_0.44um	companion	R1	/mss5/Reads/Metagenome/Ossetia-2020/4128-0-44_S27_R1_001.fastq.gz	409941814
+4128-0-44	NA	Biragzang thermal spring	North Ossetia	42.995672	44.229012	cellular_0.44um	companion	R2	/mss5/Reads/Metagenome/Ossetia-2020/4128-0-44_S27_R2_001.fastq.gz	481179235
+NC1	NA	negative control (type unconfirmed)	NA	NA	NA	negative_control_type_unknown	control	R1	/mss5/Reads/Metagenome/Ossetia-2020/NC1_S64_R1_001.fastq.gz	145290010
+NC1	NA	negative control (type unconfirmed)	NA	NA	NA	negative_control_type_unknown	control	R2	/mss5/Reads/Metagenome/Ossetia-2020/NC1_S64_R2_001.fastq.gz	204122798

@@ -1,0 +1,90 @@
+# AAI to the closest genome of the CheckV database; lysogeny-associated gene annotations by geNomad
+votu	taxon	aai_id	aai_af	aai_confidence	aai_top_hit	origin_category	embedded_prophage	lysogeny_genes
+vOTU_001	Caudoviricetes	53.94	43.01	medium	CheckV-059696	1_provirus_MV	yes	recombinase
+vOTU_002	Caudoviricetes	45.72	16.26	low	CheckV-033404	1_provirus_MV	yes	integrase
+vOTU_003	Caudoviricetes	57.62	15.02	high	CheckV-042439	5_unknown	no	
+vOTU_004	Caudoviricetes	34.39	14.92	medium	CheckV-015647	5_unknown	no	regulatory protein cii
+vOTU_005	Caudoviricetes	44.06	36.24	medium	CheckV-041938	1_provirus_MV	yes	
+vOTU_006	Caudoviricetes	49.51	18.08	medium	CheckV-043530	1_provirus_MV	yes	antirepressor,recombinase
+vOTU_007	Caudoviricetes	41.96	37.28	medium	CheckV-007218	3_follows_sph	no	antirepressor
+vOTU_008	Caudoviricetes	44.87	38.83	medium	CheckV-018424	2_crispr_MV	no	regulatory protein cii
+vOTU_009	Caudoviricetes	53.95	79.45	medium	CheckV-013458	4_native	no	
+vOTU_010	Caudoviricetes	51.65	34.42	medium	CheckV-002863	5_unknown	no	
+vOTU_012	Caudoviricetes	47.62	59.62	medium	CheckV-008987	1_provirus_MV	yes	
+vOTU_013	Caudoviricetes	46.74	31.65	medium	CheckV-010898	5_unknown	no	
+vOTU_014	Caudoviricetes	42.28	30.87	medium	CheckV-059092	3_follows_sph	no	
+vOTU_015	Caudoviricetes	38.34	19.37	low	CheckV-001813	5_unknown	no	
+vOTU_016	Caudoviricetes	46.5	60.41	medium	CheckV-055972	5_unknown	no	recombinase
+vOTU_017	Caudoviricetes	47.8	68.41	medium	CheckV-011451	2_crispr_MV	no	
+vOTU_018	Caudoviricetes	44.2	40.99	medium	CheckV-009844	1_provirus_MV	yes	
+vOTU_019	Caudoviricetes	48.14	33.45	medium	CheckV-047960	5_unknown	no	
+vOTU_020	Caudoviricetes	48.99	69.88	medium	CheckV-004304	5_unknown	no	recombinase
+vOTU_022	Caudoviricetes	46.89	41.38	medium	CheckV-048608	5_unknown	no	
+vOTU_023	Caudoviricetes	60.76	13.56	medium	CheckV-043530	3_follows_sph	no	
+vOTU_024	Caudoviricetes	34.42	48.93	medium	CheckV-031209	5_unknown	no	
+vOTU_025	Caudoviricetes	35.43	33.24	medium	CheckV-058658	5_unknown	no	
+vOTU_026	Caudoviricetes	44.4	27.86	medium	CheckV-060800	1_provirus_MV	yes	
+vOTU_029	Caudoviricetes	41.1	44.21	medium	CheckV-012756	4_native	no	
+vOTU_030	Caudoviricetes	35.58	29.89	low	CheckV-002922	1_provirus_MV	yes	
+vOTU_031	Caudoviricetes	38.2	29.3	low	CheckV-020736	5_unknown	no	
+vOTU_032	Caudoviricetes	42.99	73.6	medium	CheckV-060800	1_provirus_MV	yes	
+vOTU_033	Caudoviricetes	57.7	17.85	medium	CheckV-033124	5_unknown	no	
+vOTU_034	Caudoviricetes	34.08	19.34	low	CheckV-008610	5_unknown	no	
+vOTU_035	Caudoviricetes	32.95	22.64	low	CheckV-018487	4_native	no	regulatory protein cii
+vOTU_036	Caudoviricetes	57.1	24.65	medium	CheckV-013458	1_provirus_MV	yes	
+vOTU_037	Caudoviricetes	76.1	7.16	low	CheckV-019496	5_unknown	no	
+vOTU_038	Caudoviricetes	53.85	24.2	medium	CheckV-061851	3_follows_sph	no	repressor
+vOTU_039	Caudoviricetes	71.8	12.46	low	CheckV-010260	3_follows_sph	no	
+vOTU_040	Caudoviricetes	49.68	60.76	medium	CheckV-052304	5_unknown	no	
+vOTU_041	Caudoviricetes	37.04	46.34	medium	CheckV-010436	3_follows_sph	no	
+vOTU_042	Autographiviridae	54.13	44.03	high	CheckV-060181	5_unknown	no	
+vOTU_043	Caudoviricetes	46.58	21.05	low	CheckV-001206	5_unknown	no	recombinase
+vOTU_044	Caudoviricetes	32.95	27.16	low	CheckV-018487	4_native	no	regulatory protein cii
+vOTU_045	Caudoviricetes	46.91	41.39	medium	CheckV-010335	5_unknown	no	
+vOTU_046	Caudoviricetes	27.34	78.61	high	CheckV-059844	5_unknown	no	
+vOTU_047	Caudoviricetes	42.94	69.55	medium	CheckV-011516	5_unknown	no	
+vOTU_048	Caudoviricetes	46.14	66.0	medium	CheckV-060800	1_provirus_MV	yes	
+vOTU_049	Caudoviricetes	75.51	30.09	high	CheckV-018394	5_unknown	no	
+vOTU_050	Caudoviricetes	43.98	33.4	medium	CheckV-013547	5_unknown	no	
+vOTU_051	Caudoviricetes	53.17	16.74	low	CheckV-009710	5_unknown	no	
+vOTU_052	Caudoviricetes	49.4	47.03	medium	CheckV-016234	5_unknown	no	
+vOTU_053	Caudoviricetes	43.46	33.73	medium	CheckV-002291	4_native	no	
+vOTU_054	Caudoviricetes	51.01	38.99	medium	CheckV-046219	5_unknown	no	
+vOTU_055	Caudoviricetes	32.57	29.83	low	CheckV-041423	1_provirus_MV	yes	
+vOTU_057	Caudoviricetes	43.5	24.4	medium	CheckV-015365	5_unknown	no	recombinase
+vOTU_058	Caudoviricetes	45.0	9.44	low	CheckV-003826	4_native	no	
+vOTU_059	Inoviridae	48.55	29.92	medium	CheckV-064782	5_unknown	no	
+vOTU_061	Caudoviricetes	48.47	22.83	medium	CheckV-008178	5_unknown	no	
+vOTU_062	Caudoviricetes	32.77	34.6	low	CheckV-018487	4_native	no	
+vOTU_063	Caudoviricetes	40.07	47.76	medium	CheckV-011896	5_unknown	no	
+vOTU_065	Caudoviricetes	35.04	29.49	low	CheckV-051943	1_provirus_MV	yes	
+vOTU_066	Caudoviricetes	44.46	77.9	medium	CheckV-060800	1_provirus_MV	yes	
+vOTU_067	Caudoviricetes	47.6	74.8	medium	CheckV-020097	1_provirus_MV	yes	
+vOTU_068	Caudoviricetes	34.15	62.31	medium	CheckV-000471	4_native	no	
+vOTU_069	Autographiviridae	53.39	66.43	high	CheckV-060181	5_unknown	no	
+vOTU_070	Caudoviricetes	37.52	40.55	low	CheckV-010827	5_unknown	no	
+vOTU_071	Caudoviricetes	34.43	56.45	medium	CheckV-006509	4_native	no	recombinase
+vOTU_072	Caudoviricetes	53.85	71.28	high	CheckV-009703	5_unknown	no	
+vOTU_073	Caudoviricetes	38.87	51.01	medium	CheckV-042113	3_follows_sph	no	
+vOTU_074	Caudoviricetes	47.64	27.63	low	CheckV-000117	5_unknown	no	
+vOTU_075	Caudoviricetes	58.0	84.16	high	CheckV-015647	5_unknown	no	
+vOTU_076	Caudoviricetes	46.95	76.8	medium	CheckV-047960	4_native	no	
+vOTU_077	Caudoviricetes	28.0	14.26	low	CheckV-000253	4_native	no	
+vOTU_078	Caudoviricetes	42.15	20.88	low	CheckV-045110	5_unknown	no	
+vOTU_079	Caudoviricetes	41.78	21.02	low	CheckV-012752	4_native	no	recombinase
+vOTU_080	Caudoviricetes	24.0	37.0	low	CheckV-017903	3_follows_sph	no	
+vOTU_081	Caudoviricetes	49.22	82.7	medium	CheckV-060800	5_unknown	no	
+vOTU_082	Caudoviricetes	30.17	58.85	low	CheckV-020327	4_native	no	
+vOTU_083	Caudoviricetes	44.9	46.32	medium	CheckV-059114	5_unknown	no	
+vOTU_085	Caudoviricetes	48.03	34.44	low	CheckV-040239	3_follows_sph	no	recombinase
+vOTU_086	Caudoviricetes	54.17	47.28	medium	CheckV-013458	4_native	no	
+vOTU_087	Caudoviricetes	52.09	77.82	medium	CheckV-045731	5_unknown	no	
+vOTU_088	Mesyanzhinovviridae	43.5	60.25	medium	CheckV-061501	5_unknown	no	
+vOTU_089	Caudoviricetes	52.77	27.96	medium	CheckV-014462	5_unknown	no	
+vOTU_090	Caudoviricetes	36.92	78.53	medium	CheckV-032583	5_unknown	no	
+vOTU_091	Caudoviricetes	42.81	33.16	low	CheckV-000117	5_unknown	no	
+vOTU_092	Caudoviricetes	58.7	29.48	medium	CheckV-012817	5_unknown	no	
+vOTU_093	Caudoviricetes	48.91	35.87	low	CheckV-060800	4_native	no	
+vOTU_094	Caudoviricetes	35.1	48.76	medium	CheckV-049764	5_unknown	no	
+vOTU_096	Caudoviricetes	57.25	83.04	high	CheckV-009703	3_follows_sph	no	
+vOTU_097	Caudoviricetes	45.8	16.14	low	CheckV-018213	5_unknown	no	

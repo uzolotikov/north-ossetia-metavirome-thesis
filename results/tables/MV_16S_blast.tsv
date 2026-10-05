@@ -1,0 +1,24 @@
+# most abundant (>=800 bp) 16S loci per MV assembly vs NCBI 16S_ribosomal_RNA
+# query ranked by assembly coverage of the host contig; top 3 subject hits each
+query	len	cov	pident	alen	subject
+MV-4122_S12	933	133.1	97.109	934	Acinetobacter guillouiae strain ATCC 11171 16S ribosomal RNA, partial sequence
+MV-4122_S12	933	133.1	97.109	934	Acinetobacter antiviralis strain KNF2022 16S ribosomal RNA, partial sequence
+MV-4122_S12	933	133.1	97.109	934	Acinetobacter venetianus RAG-1 = CIP 110063 strain ATCC 31012 16S ribosomal RNA, partial sequence
+MV-4122_S12	1485	99.2	93.720	1481	Devosia psychrophila strain Cr7-05 16S ribosomal RNA, partial sequence
+MV-4122_S12	1485	99.2	92.775	1481	Devosia glacialis strain Cr4-44 16S ribosomal RNA, partial sequence
+MV-4122_S12	1485	99.2	93.264	1440	Devosia limi strain R-21940 16S ribosomal RNA, partial sequence
+MV-4122_S12	1539	65.3	98.572	1541	Pseudomonas baltica strain MBT-2 16S ribosomal RNA, complete sequence
+MV-4122_S12	1539	65.3	98.305	1534	Pseudomonas rhizosphaerae strain IH5 16S ribosomal RNA, partial sequence
+MV-4122_S12	1539	65.3	97.586	1533	Pseudomonas graminis strain DSM 11363 16S ribosomal RNA, partial sequence
+MV-4125_S18	1043	90.8	98.230	1017	Sphingomonas echinoides strain NBRC 15742 16S ribosomal RNA, partial sequence
+MV-4125_S18	1043	90.8	97.284	1031	Sphingomonas echinoides strain ATCC 14820 16S ribosomal RNA, partial sequence
+MV-4125_S18	1043	90.8	97.542	1017	Sphingomonas echinoides strain DSM 1805 16S ribosomal RNA, partial sequence
+MV-4125_S18	874	12.3	98.169	874	Spirochaeta aurantia subsp. aurantia strain J1 16S ribosomal RNA, partial sequence
+MV-4125_S18	874	12.3	87.300	874	Treponema phagedenis strain B43.1 16S ribosomal RNA, partial sequence
+MV-4125_S18	874	12.3	87.112	869	Borrelia hermsii DAH 16S ribosomal RNA, partial sequence
+MV-4128_S29	1484	177.5	97.952	1465	Sphingomonas echinoides strain ATCC 14820 16S ribosomal RNA, partial sequence
+MV-4128_S29	1484	177.5	98.125	1440	Sphingomonas echinoides strain DSM 1805 16S ribosomal RNA, partial sequence
+MV-4128_S29	1484	177.5	98.723	1410	Sphingomonas echinoides strain NBRC 15742 16S ribosomal RNA, partial sequence
+MV-4128_S29	1211	9.2	99.504	1209	Microbacterium hominis strain DSM 12509 16S ribosomal RNA, partial sequence
+MV-4128_S29	1211	9.2	99.092	1211	Microbacterium timonense strain Marseille-P5731 16S ribosomal RNA, partial sequence
+MV-4128_S29	1211	9.2	99.172	1208	Microbacterium hominis strain IFO 15708 16S ribosomal RNA, partial sequence

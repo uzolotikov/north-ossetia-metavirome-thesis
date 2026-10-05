@@ -1,0 +1,5 @@
+site	sample_id_metadata	library_prefix	assembly_name_planned	description	geo_loc_name	lat	lon	temperature_C	pH	Eh	Conc	Volume	season	collection_date	notes
+Tib-1	KM4122-MV	4122	KMA41A18	Tib #1 cold mineral spring	Russia: North Ossetia-Alania	42.676395	43.923569	15.5	not measured	not measured	0.3	0.5	2020	TODO	~1 km from Tib-2
+Tib-2	KM4125-MV	4125	KMA41A19	Tib #2 cold mineral spring	Russia: North Ossetia-Alania	42.670042	43.913496	16.8	not measured	not measured	NA	40	2020	TODO	~1 km from Tib-1; source table has typo KM4124-MV
+Biragzang	KM4128-MV	4128	KMA41A20	Biragzang thermal alkaline spring	Russia: North Ossetia-Alania	42.995672	44.229012	48	8.8	0	0.2	1.5	2020	TODO	~35 km from Tib
+# Conc и Volume — без единиц в исходной таблице (вероятно, концентрация ДНК и объём профильтрованной воды); единицы уточнить.

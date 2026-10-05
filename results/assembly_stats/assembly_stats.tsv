@@ -1,0 +1,12 @@
+assembly	assembler	contigs	total_bp	largest_bp	N50	ge5kb	ge10kb	path_on_labg
+MV-4122_S12	metaSPAdes 4.3.0	118787	111264295	347332	3580	2579	1400	/NatureUsers/nsinyavskiy/metaviroms_kgt/assembly/no_NC/MV-4122_S12/contigs.fasta
+MV-4122_S12	SPAdes (no --meta)	105951	113537529	333188	3200	2742	1307	/NatureUsers/glitch/mv_review/assembly_spades/MV-4122_S12/contigs.fasta
+MV-4125_S18	metaSPAdes 4.3.0	107701	99713690	227212	2659	2597	1114	/NatureUsers/nsinyavskiy/metaviroms_kgt/assembly/no_NC/MV-4125_S18/contigs.fasta
+MV-4125_S18	SPAdes (no --meta)	88435	98136484	288940	3435	2991	1232	/NatureUsers/glitch/mv_review/assembly_spades/MV-4125_S18/contigs.fasta
+MV-4128_S29	metaSPAdes 4.3.0	113726	70734836	685560	1143	1294	632	/NatureUsers/nsinyavskiy/metaviroms_kgt/assembly/no_NC/MV-4128_S29/contigs.fasta
+MV-4128_S29	SPAdes (no --meta)	86715	66107845	166641	1616	1512	757	/NatureUsers/glitch/mv_review/assembly_spades/MV-4128_S29/contigs.fasta
+4122-0-22_S11	metaSPAdes 4.3.0	27516	11991866	28923	417	247	76	/NatureUsers/nsinyavskiy/metaviroms_kgt/assembly/cellular/4122-0-22_S11/contigs.fasta
+4122-0-44_S10	metaSPAdes 4.3.0	66229	32406850	365826	591	561	206	/NatureUsers/nsinyavskiy/metaviroms_kgt/assembly/cellular/4122-0-44_S10/contigs.fasta
+4125-0-22_S17	metaSPAdes 4.3.0	340491	100740644	13610	266	15	1	/NatureUsers/nsinyavskiy/metaviroms_kgt/assembly/cellular/4125-0-22_S17/contigs.fasta
+4125-0-44_S16	metaSPAdes 4.3.0	1760630	556307623	28055	282	661	100	/NatureUsers/nsinyavskiy/metaviroms_kgt/assembly/cellular/4125-0-44_S16/contigs.fasta
+Biragzang.final	external (oscypek)	19113	67197735	90607	4317	2907	913	/NatureUsers/oscypek/data/alania-meta/Biragzang.final.fna

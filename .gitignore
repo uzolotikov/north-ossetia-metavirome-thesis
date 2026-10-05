@@ -1,0 +1,20 @@
+# Внутренние документы: отчёт проверки, черновики тезисов — не публикуются
+private/
+/Синявский_НН_тезис*.docx
+
+# Крупные файлы: хранить в SRA / Zenodo, не в git
+*.bam
+*.bai
+*.fastq
+*.fastq.gz
+*.fq.gz
+contigs.fasta
+scaffolds.fasta
+*.fastg
+*.gfa
+
+# Служебное
+.~lock.*
+__pycache__/
+*.pyc
+.DS_Store

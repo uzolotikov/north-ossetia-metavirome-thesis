@@ -1,0 +1,28 @@
+# vOTU confirmed by the cellular fraction of their own site
+# leak background 0.0005; confirmed if cell/MV RPM ratio > 0.02 with >=10 reads;
+# reliable if ratio >= 0.1
+site	votu	cell_library	cell_reads	ratio_cell_over_mv	level	rpm_Tib1	rpm_Tib2	rpm_Biragzang	max_in
+Tib2	vOTU_004	4125-0-44_S16	70	0.0367	confirmed	256.5	96.0	8.3	Tib1
+Tib2	vOTU_009	4125-0-44_S16	378	1.6608	reliable	163.8	11.4	1.8	Tib1
+Tib2	vOTU_014	4125-0-44_S16	20	0.0231	confirmed	0.0	43.6	118.6	Biragzang
+Tib2	vOTU_029	4125-0-44_S16	40	0.6008	reliable	45.7	3.3	0.2	Tib1
+Tib2	vOTU_035	4125-0-44_S16	328	0.7499	reliable	60.4	22.0	2.6	Tib1
+Tib2	vOTU_042	4125-0-44_S16	10	0.0595	confirmed	20.9	8.5	2.3	Tib1
+Tib2	vOTU_044	4125-0-44_S16	356	0.9404	reliable	54.1	19.0	2.2	Tib1
+Tib2	vOTU_053	4125-0-44_S16	79	0.2729	reliable	19.0	14.6	35.6	Biragzang
+Tib2	vOTU_058	4125-0-44_S16	55	0.2722	reliable	16.5	10.2	28.7	Biragzang
+Tib2	vOTU_061	4125-0-44_S16	50	0.0733	confirmed	85.9	34.3	3.4	Tib1
+Tib2	vOTU_062	4125-0-44_S16	405	4.9825	reliable	32.9	4.1	2.8	Tib1
+Tib2	vOTU_068	4125-0-44_S16	28	0.1464	reliable	15.8	9.6	24.7	Biragzang
+Tib2	vOTU_071	4125-0-44_S16	398	0.7282	reliable	87.8	27.5	5.1	Tib1
+Tib2	vOTU_077	4125-0-44_S16	34	0.1651	reliable	16.9	10.4	27.2	Biragzang
+Tib2	vOTU_079	4125-0-44_S16	15	0.8073	reliable	12.9	0.9	0.3	Tib1
+Tib2	vOTU_082	4125-0-44_S16	15	1.2110	reliable	13.1	0.6	0.1	Tib1
+Tib2	vOTU_086	4125-0-44_S16	64	1.0465	reliable	30.0	3.1	0.2	Tib1
+Tib2	vOTU_093	4125-0-44_S16	39	2.7988	reliable	16.6	0.7	0.2	Tib1
+Biragzang	vOTU_076	4128-0-44_S27	10	0.3735	reliable	0.0	0.2	7.4	Biragzang
+#
+# Tib1: confirmed 0, of which reliable 0
+# Tib2: confirmed 18, of which reliable 14
+# Biragzang: confirmed 1, of which reliable 1
+# of the 14 reliable Tib2 vOTU, 10 peak in MV Tib1

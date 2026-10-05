@@ -1,0 +1,33 @@
+2026-10-02 12:36:03 - MEGAHIT v1.2.9
+2026-10-02 12:36:03 - Using megahit_core with POPCNT and BMI2 support
+2026-10-02 12:36:03 - Convert reads to binary library
+2026-10-02 12:36:03 - b'INFO  sequence/io/sequence_lib.cpp  :   75 - Lib 0 (/NatureUsers/nsinyavskiy/metaviroms_kgt/clean/pilot/NC1_S64_R1.fastq.gz,/NatureUsers/nsinyavskiy/metaviroms_kgt/clean/pilot/NC1_S64_R2.fastq.gz): pe, 103764 reads, 151 max length'
+2026-10-02 12:36:03 - b'INFO  utils/utils.h                 :  152 - Real: 0.2418\tuser: 0.1019\tsys: 0.0183\tmaxrss: 16896'
+2026-10-02 12:36:03 - k-max reset to: 141 
+2026-10-02 12:36:03 - Start assembly. Number of CPU threads 16 
+2026-10-02 12:36:03 - k list: 21,29,39,59,79,99,119,141 
+2026-10-02 12:36:03 - Memory used: 181237539225
+2026-10-02 12:36:03 - Extract solid (k+1)-mers for k = 21 
+2026-10-02 12:36:05 - Build graph for k = 21 
+2026-10-02 12:36:06 - Assemble contigs from SdBG for k = 21
+2026-10-02 12:36:07 - Local assembly for k = 21
+2026-10-02 12:36:07 - Extract iterative edges from k = 21 to 29 
+2026-10-02 12:36:08 - Build graph for k = 29 
+2026-10-02 12:36:09 - Assemble contigs from SdBG for k = 29
+2026-10-02 12:36:09 - Local assembly for k = 29
+2026-10-02 12:36:09 - Extract iterative edges from k = 29 to 39 
+2026-10-02 12:36:10 - Build graph for k = 39 
+2026-10-02 12:36:10 - Assemble contigs from SdBG for k = 39
+2026-10-02 12:36:11 - Local assembly for k = 39
+2026-10-02 12:36:11 - Extract iterative edges from k = 39 to 59 
+2026-10-02 12:36:11 - Build graph for k = 59 
+2026-10-02 12:36:12 - Assemble contigs from SdBG for k = 59
+2026-10-02 12:36:13 - Local assembly for k = 59
+2026-10-02 12:36:13 - Extract iterative edges from k = 59 to 79 
+2026-10-02 12:36:13 - Build graph for k = 79 
+2026-10-02 12:36:13 - Assemble contigs from SdBG for k = 79
+2026-10-02 12:36:14 - Local assembly for k = 79
+2026-10-02 12:36:14 - Extract iterative edges from k = 79 to 99 
+2026-10-02 12:36:14 - Merging to output final contigs 
+2026-10-02 12:36:14 - 0 contigs, total 0 bp, min 0 bp, max 0 bp, avg 0 bp, N50 0 bp
+2026-10-02 12:36:14 - ALL DONE. Time elapsed: 11.412979 seconds 
