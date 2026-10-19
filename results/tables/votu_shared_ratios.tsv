@@ -1,0 +1,31 @@
+# vOTU detected in BOTH MV Tib2 and MV Biragzang
+# contaminant Tib2/Biragzang ratio (derived) = 0.5444
+# 'within 1.5x' window = 0.3629 .. 0.8166
+votu	rpm_Tib2	rpm_Biragzang	ratio	within_1.5x_of_contaminant
+vOTU_027	34.31	101.28	0.3387	no
+vOTU_058	10.16	28.72	0.3539	no
+vOTU_014	43.61	118.57	0.3678	yes
+vOTU_077	10.36	27.17	0.3813	yes
+vOTU_095	5.30	13.65	0.3881	yes
+vOTU_038	22.16	54.31	0.4080	yes
+vOTU_053	14.56	35.59	0.4092	yes
+vOTU_096	11.18	23.62	0.4731	yes
+vOTU_041	14.72	30.91	0.4762	yes
+vOTU_085	9.62	18.99	0.5065	yes
+vOTU_026	2100.71	4014.13	0.5233	yes
+vOTU_007	2732.36	5199.96	0.5255	yes
+vOTU_039	911.20	1730.47	0.5266	yes
+vOTU_073	342.91	626.15	0.5476	yes
+vOTU_008	2929.78	5234.44	0.5597	yes
+vOTU_005	4005.27	6702.61	0.5976	yes
+vOTU_080	2.65	4.34	0.6108	yes
+vOTU_023	10.32	14.90	0.6925	yes
+vOTU_018	135.08	165.28	0.8173	no
+vOTU_006	348.24	362.70	0.9602	no
+vOTU_064	85.12	82.24	1.0350	no
+vOTU_017	157.82	84.36	1.8708	no
+vOTU_071	27.49	5.15	5.3404	no
+vOTU_061	34.31	3.40	10.0927	no
+#
+# shared vOTU                    : 24
+# within 1.5x of the contaminant : 16

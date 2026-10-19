@@ -1,0 +1,8 @@
+# detection matrix versions
+# dormant proviruses excluded in v1/v2 (14): vOTU_001,vOTU_002,vOTU_005,vOTU_006,vOTU_018,vOTU_027,vOTU_030,vOTU_048,vOTU_055,vOTU_056,vOTU_060,vOTU_065,vOTU_066,vOTU_067
+# induced prophages (kept, 4): vOTU_012,vOTU_026,vOTU_032,vOTU_036
+# follows the contaminant, excluded in v2 (16): vOTU_005,vOTU_007,vOTU_008,vOTU_014,vOTU_023,vOTU_026,vOTU_038,vOTU_039,vOTU_041,vOTU_053,vOTU_073,vOTU_077,vOTU_080,vOTU_085,vOTU_095,vOTU_096
+version	n_votu	det_Tib1	det_Tib2	det_Biragzang	shared_all3	J_Tib1_Tib2	J_Tib1_Bi	J_Tib2_Bi	BC_Tib1_Tib2	BC_Tib1_Bi	BC_Tib2_Bi
+(a) all 97 vOTU	97	73	55	37	15	48.8	20.9	35.3	0.23	0.04	0.66
+(v1) minus dormant proviruses	83	60	44	32	12	44.4	19.5	35.7	0.15	0.02	0.65
+(v2) v1 minus vOTU following the contaminant	68	51	29	17	3	40.4	9.7	12.2	0.34	0.04	0.20

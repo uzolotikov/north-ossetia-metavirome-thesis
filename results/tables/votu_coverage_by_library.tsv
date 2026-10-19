@@ -1,0 +1,16 @@
+# coverage of the 97-vOTU catalogue per library
+# detected = breadth >=75 % at >=1x (detection criterion of the catalogue)
+# catalogue_read_pct = reads on the catalogue / clean reads
+# viral_read_pct = share of library reads on whole-viral contigs of the step6 reference
+library	label	clean_reads	detected_75pct	breadth_ge90	breadth_ge50	zero_reads	catalogue_reads	catalogue_read_pct	median_breadth_detected	median_depth_detected	max_depth	max_depth_votu	viral_read_pct
+MV-4122_S12	MV Tib1	38071806	73	65	78	12	376723	0.990	99.9	11.66	177.8	vOTU_002	0.49
+MV-4125_S18	MV Tib2	25680390	55	45	63	7	439180	1.710	99.0	8.39	372.7	vOTU_026	0.85
+MV-4128_S29	MV Biragzang	40598794	37	33	42	28	1010252	2.488	100.0	14.27	1174.5	vOTU_026	1.19
+4122-0-44_S10	Tib1 cell 0.44	30115448	0	0	0	81	61	0.000	0.0	0.00	0.1	vOTU_062	8.51
+4122-0-22_S11	Tib1 cell 0.22	1193866	0	0	0	94	6	0.001	0.0	0.00	0.0	vOTU_061	3.82
+4125-0-44_S16	Tib2 cell 0.44	19880220	2	2	5	59	2492	0.013	97.5	6.06	6.5	vOTU_071	0.14
+4125-0-22_S17	Tib2 cell 0.22	4130804	0	0	0	85	31	0.001	0.0	0.00	0.1	vOTU_071	0.05
+4128-0-44_S27	Bi cell 0.44	3599252	0	0	0	89	24	0.001	0.0	0.00	0.2	vOTU_076	0.69
+4128-0-22_S28	Bi cell 0.22	1001786	0	0	0	94	17	0.002	0.0	0.00	0.3	vOTU_076	0.80
+4128_S30	Bi whole water	6453914	0	0	0	96	10	0.000	0.0	0.00	0.2	vOTU_076	0.25
+NC1_S64	NC1 control	103764	0	0	0	97	0	0.000	0.0	0.00	0.0	vOTU_001	0.00

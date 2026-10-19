@@ -1,0 +1,4 @@
+sample	input_candidates	trimmed_candidates	strict_supported	review	exclude_strict	strict_ge5kb	strict_ge10kb	short_HQ	removed_host_bp
+MV-4122_S12	365	15	101	126	138	55	21	0	137948
+MV-4125_S18	454	12	94	139	221	37	17	0	141370
+MV-4128_S29	343	8	99	124	120	27	13	0	60873

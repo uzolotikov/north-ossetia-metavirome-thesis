@@ -1,0 +1,4 @@
+seq_name	length	topology	n_genes	genetic_code	plasmid_score	fdr	n_hallmarks	marker_enrichment	conjugation_genes	amr_genes
+vOTU_064	7348	No terminal repeats	11	11	0.9927	NA	0	4.3819	NA	NA
+vOTU_056	8069	No terminal repeats	11	11	0.9849	NA	0	0.6434	NA	NA
+vOTU_021	16581	No terminal repeats	16	11	0.9810	NA	0	5.8438	NA	NA

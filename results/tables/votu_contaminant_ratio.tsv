@@ -1,0 +1,14 @@
+# contaminant abundance ratio between the MV libraries
+# basis: 32 MV-4128-derived contigs >=50 kb present in the step6 reference,
+#        4874527 bp
+library	mapped_reads	clean_reads	read_pct_of_library	RPM
+Tib1	807169	38071806	2.12	21201
+Tib2	9585549	25680390	37.33	373263
+Biragzang	27836248	40598794	68.56	685642
+#
+pair	ratio_by_reads	ratio_by_length_weighted_depth
+Tib2/Biragzang	0.5444	0.3407
+Tib1/Biragzang	0.0309	0.0289
+Tib1/Tib2	0.0568	0.0849
+#
+# the read-based Tib2/Biragzang ratio is used for the 1.5x window of shared vOTU

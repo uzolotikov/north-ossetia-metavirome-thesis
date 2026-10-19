@@ -1,0 +1,109 @@
+# flags for all 97 vOTU of the catalogue
+# contaminant Tib2/Biragzang ratio = 0.5444; 'follows_contaminant' window 0.3629..0.8166
+# recommendation: exclude_plasmid | exclude_not_confirmed_by_genomad |
+#                 flag_dormant_provirus | keep_confirmed_by_cellular | keep
+votu	length	genomad	genomad_score	genomad_taxon	embedded	in_over_flank	host_contig	follows_contaminant	cellular	cellular_site	cellular_ratio	rpm_Tib1	rpm_Tib2	rpm_Biragzang	recommendation
+vOTU_001	43643	virus	0.96	Caudoviricetes	dormant_provirus	0.67	MV-4122_S12__NODE_79_length_88798_cov_36.475621					371.56	0.16	0.00	flag_dormant_provirus
+vOTU_002	43474	virus	0.97	Caudoviricetes	dormant_provirus	0.75	MV-4122_S12__NODE_37_length_131343_cov_196.227919					1978.55	1136.86	0.20	flag_dormant_provirus
+vOTU_003	42130	virus	0.97	Caudoviricetes								406.10	132.75	0.10	keep
+vOTU_004	40752	virus	0.97	Caudoviricetes					confirmed	Tib2	0.037	256.49	96.03	8.25	keep
+vOTU_005	39533	virus	0.95	Caudoviricetes	dormant_provirus	0.86	MV-4128_S29__NODE_1_length_685560_cov_728.732645	yes				23.43	4005.27	6702.61	flag_dormant_provirus
+vOTU_006	39529	virus	0.97	Caudoviricetes	dormant_provirus	0.91	MV-4122_S12__NODE_1_length_347332_cov_162.618440	no				1694.38	348.24	362.70	flag_dormant_provirus
+vOTU_007	39259	virus	0.97	Caudoviricetes				yes				8.30	2732.36	5199.96	keep
+vOTU_008	36032	virus	0.94	Caudoviricetes				yes				16.99	2929.78	5234.44	keep
+vOTU_009	27200	virus	0.94	Caudoviricetes					reliable	Tib2	1.661	163.85	11.45	1.85	keep_confirmed_by_cellular
+vOTU_010	26567	virus	0.97	Caudoviricetes								217.69	0.08	0.00	keep
+vOTU_011	26064	not_viral	nan	NA								16.73	268.53	0.17	exclude_not_confirmed_by_genomad
+vOTU_012	25184	virus	0.98	Caudoviricetes	induced_prophage	1.86	MV-4122_S12__NODE_400_length_30910_cov_29.638243					228.36	68.69	0.00	keep
+vOTU_013	23580	virus	0.97	Caudoviricetes								21.30	221.41	0.00	keep
+vOTU_014	22758	virus	0.98	Caudoviricetes				yes	confirmed	Tib2	0.023	0.00	43.61	118.57	keep
+vOTU_015	19802	virus	0.95	Caudoviricetes								147.98	42.48	0.05	keep
+vOTU_016	19268	virus	0.97	Caudoviricetes								164.50	0.00	0.00	keep
+vOTU_017	18801	virus	0.98	Caudoviricetes				no				5.88	157.82	84.36	keep
+vOTU_018	17956	virus	0.95	Caudoviricetes	dormant_provirus	1.00	MV-4122_S12__NODE_150_length_60956_cov_139.780135	no				715.20	135.08	165.28	flag_dormant_provirus
+vOTU_019	17688	virus	0.96	Caudoviricetes								168.79	121.69	0.00	keep
+vOTU_020	16631	virus	0.98	Caudoviricetes								46.78	5.10	0.05	keep
+vOTU_021	16581	plasmid	0.98	NA								40.66	7.17	11.11	exclude_plasmid
+vOTU_022	16437	virus	0.97	Caudoviricetes								134.25	38.75	0.00	keep
+vOTU_023	15987	virus	0.96	Caudoviricetes				yes				43.79	10.32	14.90	keep
+vOTU_024	15578	virus	0.98	Caudoviricetes								0.00	72.00	0.00	keep
+vOTU_025	15483	virus	0.97	Caudoviricetes								344.69	52.37	1.43	keep
+vOTU_026	15200	virus	0.84	Caudoviricetes	induced_prophage	2.31	MV-4128_S29__NODE_219_length_22136_cov_837.337666	yes				13.24	2100.71	4014.13	keep
+vOTU_027	14847	not_viral	nan	NA	dormant_provirus	1.02	MV-4128_S29__NODE_168_length_25826_cov_27.249311	no				0.00	34.31	101.28	exclude_not_confirmed_by_genomad
+vOTU_028	14391	not_viral	nan	NA								54.27	19.90	0.00	exclude_not_confirmed_by_genomad
+vOTU_029	14134	virus	0.98	Caudoviricetes					reliable	Tib2	0.601	45.65	3.35	0.25	keep_confirmed_by_cellular
+vOTU_030	14079	virus	0.97	Caudoviricetes	dormant_provirus	0.77	MV-4122_S12__NODE_26_length_151132_cov_95.491233					267.65	42.33	1.35	flag_dormant_provirus
+vOTU_031	13868	virus	0.98	Caudoviricetes								32.83	5.72	9.90	keep
+vOTU_032	12646	virus	0.92	Caudoviricetes	induced_prophage	1.57	MV-4122_S12__NODE_5_length_250913_cov_121.761750					566.11	85.24	2.68	keep
+vOTU_033	12556	virus	0.96	Caudoviricetes								0.00	58.25	0.00	keep
+vOTU_034	12045	virus	0.96	Caudoviricetes								0.05	0.08	20.57	keep
+vOTU_035	11914	virus	0.97	Caudoviricetes					reliable	Tib2	0.750	60.44	22.00	2.56	keep_confirmed_by_cellular
+vOTU_036	11464	virus	0.97	Caudoviricetes	induced_prophage	2.67	MV-4122_S12__NODE_517_length_25277_cov_17.470859					78.17	38.47	0.64	keep
+vOTU_037	11202	virus	0.95	Caudoviricetes								8.64	85.47	0.00	keep
+vOTU_038	11069	virus	0.96	Caudoviricetes				yes				0.00	22.16	54.31	keep
+vOTU_039	10738	virus	0.87	Caudoviricetes				yes				3.70	911.20	1730.47	keep
+vOTU_040	10734	virus	0.97	Caudoviricetes								27.79	2.34	0.00	keep
+vOTU_041	10621	virus	0.97	Caudoviricetes				yes				8.20	14.72	30.91	keep
+vOTU_042	9843	virus	0.98	Autographiviridae					confirmed	Tib2	0.060	20.86	8.45	2.32	keep
+vOTU_043	9642	virus	0.97	Caudoviricetes								20.96	1.99	0.00	keep
+vOTU_044	9638	virus	0.95	Caudoviricetes					reliable	Tib2	0.940	54.13	19.04	2.24	keep_confirmed_by_cellular
+vOTU_045	9606	virus	0.87	Caudoviricetes								23.59	1.83	0.10	keep
+vOTU_046	9378	virus	0.97	Caudoviricetes								0.16	0.16	11.26	keep
+vOTU_047	9348	virus	0.98	Caudoviricetes								8.14	26.64	0.10	keep
+vOTU_048	9323	virus	0.96	Caudoviricetes	dormant_provirus	1.26	MV-4122_S12__NODE_500_length_25921_cov_24.009743					70.50	36.60	0.57	flag_dormant_provirus
+vOTU_049	9268	virus	0.96	Caudoviricetes								76.67	0.00	0.00	keep
+vOTU_050	9111	virus	0.98	Caudoviricetes								76.62	57.79	0.05	keep
+vOTU_051	8783	virus	0.92	Caudoviricetes								65.88	18.19	0.00	keep
+vOTU_052	8539	virus	0.97	Caudoviricetes								12.29	0.35	0.00	keep
+vOTU_053	8224	virus	0.96	Caudoviricetes				yes	reliable	Tib2	0.273	18.96	14.56	35.59	keep_confirmed_by_cellular
+vOTU_054	8212	virus	0.98	Caudoviricetes								0.11	0.66	19.80	keep
+vOTU_055	8169	virus	0.95	Caudoviricetes	dormant_provirus	0.62	MV-4122_S12__NODE_305_length_38149_cov_45.168215					80.69	0.08	0.00	flag_dormant_provirus
+vOTU_056	8069	plasmid	0.98	NA	dormant_provirus	1.00	MV-4122_S12__NODE_271_length_41564_cov_9.960804					22.85	4.56	7.44	exclude_plasmid
+vOTU_057	8036	virus	0.88	Caudoviricetes								0.00	0.08	13.89	keep
+vOTU_058	7879	virus	0.92	Caudoviricetes				no	reliable	Tib2	0.272	16.50	10.16	28.72	keep_confirmed_by_cellular
+vOTU_059	7727	virus	0.97	Inoviridae								42.03	11.72	0.00	keep
+vOTU_060	7593	not_viral	nan	NA	dormant_provirus	0.31	MV-4122_S12__NODE_74_length_92715_cov_81.746903					106.51	16.63	0.25	exclude_not_confirmed_by_genomad
+vOTU_061	7573	virus	0.96	Caudoviricetes				no	confirmed	Tib2	0.073	85.92	34.31	3.40	keep
+vOTU_062	7457	virus	0.95	Caudoviricetes					reliable	Tib2	4.982	32.94	4.09	2.83	keep_confirmed_by_cellular
+vOTU_063	7352	virus	0.97	Caudoviricetes								0.05	31.66	0.00	keep
+vOTU_064	7348	plasmid	0.99	NA				no				2.97	85.12	82.24	exclude_plasmid
+vOTU_065	7312	virus	0.77	Caudoviricetes	dormant_provirus	0.56	MV-4122_S12__NODE_100_length_77687_cov_44.800675					55.34	37.73	0.00	flag_dormant_provirus
+vOTU_066	7142	virus	0.96	Caudoviricetes	dormant_provirus	1.31	MV-4122_S12__NODE_13_length_180342_cov_55.843233					133.27	75.43	0.20	flag_dormant_provirus
+vOTU_067	7007	virus	0.94	Caudoviricetes	dormant_provirus	1.02	MV-4122_S12__NODE_13_length_180342_cov_55.843233					109.00	64.87	0.15	flag_dormant_provirus
+vOTU_068	7001	virus	0.98	Caudoviricetes					reliable	Tib2	0.146	15.81	9.62	24.66	keep_confirmed_by_cellular
+vOTU_069	6406	virus	0.98	Autographiviridae								10.82	4.52	1.67	keep
+vOTU_070	6405	virus	0.98	Caudoviricetes								0.00	0.00	16.23	keep
+vOTU_071	6393	virus	0.98	Caudoviricetes				no	reliable	Tib2	0.728	87.83	27.49	5.15	keep_confirmed_by_cellular
+vOTU_072	6246	virus	0.98	Caudoviricetes								15.21	2.53	0.25	keep
+vOTU_073	6209	virus	0.91	Caudoviricetes				yes				1.37	342.91	626.15	keep
+vOTU_074	6183	virus	0.86	Caudoviricetes								8.46	0.08	0.00	keep
+vOTU_075	6100	virus	0.96	Caudoviricetes								16.65	1.95	0.20	keep
+vOTU_076	5969	virus	0.97	Caudoviricetes					reliable	Biragzang	0.374	0.00	0.19	7.44	keep_confirmed_by_cellular
+vOTU_077	5967	virus	0.98	Caudoviricetes				yes	reliable	Tib2	0.165	16.86	10.36	27.17	keep_confirmed_by_cellular
+vOTU_078	5886	virus	0.93	Caudoviricetes								36.51	0.00	0.00	keep
+vOTU_079	5800	virus	0.96	Caudoviricetes					reliable	Tib2	0.807	12.95	0.93	0.32	keep_confirmed_by_cellular
+vOTU_080	5760	virus	0.97	Caudoviricetes				yes				15.13	2.65	4.34	keep
+vOTU_081	5722	virus	0.71	Caudoviricetes								0.00	16.28	0.00	keep
+vOTU_082	5702	virus	0.97	Caudoviricetes					reliable	Tib2	1.211	13.13	0.62	0.10	keep_confirmed_by_cellular
+vOTU_083	5669	virus	0.98	Caudoviricetes								12.66	1.25	0.00	keep
+vOTU_084	5652	not_viral	nan	NA								12.27	1.29	0.05	exclude_not_confirmed_by_genomad
+vOTU_085	5590	virus	0.95	Caudoviricetes				yes				3.26	9.62	18.99	keep
+vOTU_086	5415	virus	0.88	Caudoviricetes					reliable	Tib2	1.046	30.02	3.08	0.17	keep_confirmed_by_cellular
+vOTU_087	5403	virus	0.98	Caudoviricetes								7.93	0.16	0.00	keep
+vOTU_088	5394	virus	0.97	Mesyanzhinovviridae								0.00	0.00	7.56	keep
+vOTU_089	5381	virus	0.98	Caudoviricetes								0.00	0.00	12.73	keep
+vOTU_090	5341	virus	0.88	Caudoviricetes								7.33	0.08	0.00	keep
+vOTU_091	5275	virus	0.94	Caudoviricetes								0.00	0.00	6.77	keep
+vOTU_092	5235	virus	0.98	Caudoviricetes								7.83	0.08	0.00	keep
+vOTU_093	5204	virus	0.91	Caudoviricetes					reliable	Tib2	2.799	16.57	0.70	0.20	keep_confirmed_by_cellular
+vOTU_094	5194	virus	0.97	Caudoviricetes								6.46	0.39	0.00	keep
+vOTU_095	5169	not_viral	nan	NA				yes				3.44	5.30	13.65	exclude_not_confirmed_by_genomad
+vOTU_096	5135	virus	0.97	Caudoviricetes				yes				5.54	11.18	23.62	keep
+vOTU_097	5093	virus	0.98	Caudoviricetes								11.08	1.60	0.15	keep
+#
+# exclude_not_confirmed_by_genomad: 6
+# exclude_plasmid: 3
+# flag_dormant_provirus: 11
+# keep: 62
+# keep_confirmed_by_cellular: 15
+# total: 97
